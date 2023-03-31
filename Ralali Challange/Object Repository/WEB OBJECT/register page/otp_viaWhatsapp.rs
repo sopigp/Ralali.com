@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>otp_viaWhatsapp</name>
+   <tag></tag>
+   <elementGuidId>fbb5fa47-53d7-4323-8b14-477de646fe93</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>[data-testid='channel-whatsapp']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>[data-testid='channel-whatsapp']</value>
+      <webElementGuid>b543181f-4634-4037-be2e-19ec447a7b73</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
