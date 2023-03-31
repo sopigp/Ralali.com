@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_masuk</name>
+   <tag></tag>
+   <elementGuidId>3ab076de-247f-4bd2-abb0-4b39aeb70ac2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>.Button__StyledButton-sc-1l9x0nw-0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>.Button__StyledButton-sc-1l9x0nw-0</value>
+      <webElementGuid>afcb1776-2eed-42e2-8079-32914b1d491e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

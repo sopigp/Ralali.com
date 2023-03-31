@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_verificationCode_Input2</name>
+   <tag></tag>
+   <elementGuidId>7ec74850-205f-4864-8a81-88864f29433b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[2]</value>
+      <webElementGuid>f5feb5d1-8722-4b03-91bb-b1e4bce6071e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
